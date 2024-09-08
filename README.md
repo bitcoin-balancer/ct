@@ -29,3 +29,13 @@ For more information, visit:
 ## Acknowledgments
 
 - [j0sh](https://github.com/j0sh)
+
+
+
+
+
+<br/>
+
+## License
+
+[Apache v2.0](https://www.apache.org/licenses/LICENSE-2.0)
