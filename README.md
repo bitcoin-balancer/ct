@@ -1,4 +1,6 @@
-# Balancer Cloudflare Tunnel
+# `ct`
+
+The `ct` is a Docker image powered by [BusyBox](https://hub.docker.com/_/busybox), designed to run the [cloudflared](https://hub.docker.com/r/cloudflare/cloudflared) service without requiring secrets to be specified via environment variables.
 
 Cloudflare Tunnel provides a secure and reliable way to expose Balancer's services to the Internet with a Zero Trust approach. Using the [cloudflared](https://hub.docker.com/r/cloudflare/cloudflared) image, Tunnel establishes encrypted connections between your internal services and Cloudflare's global network, eliminating the need for public IP addresses and reducing your attack surface. This allows you to control access to your applications, ensuring only authorized users and devices can reach your services.
 
